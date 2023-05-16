@@ -1,9 +1,8 @@
 ## Hey! Eu me chamo Samara Trindade
 
-- 🔭 Hoje sou estagiária fullstack 
-- 🌱 Estou estudando atualmente: Golang e Java 
-- 😄 Pronome: ela/dela
-
+- 🔭 I'm a fullstack intern 
+- 🌱 I'm studying vue, node and typescript 
+ 
 <div>
   <a href="https://github.com/sammytrindade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammytrindade&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
