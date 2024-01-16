@@ -1,7 +1,7 @@
 ## Hey! Eu me chamo Samara Trindade
 
 - 🔭 I'm a fullstack intern 
-- 🌱 I'm studying vue, node and typescript 
+- 🌱 I'm studying vue, node, python and typescript 
  
 <div>
   <a href="https://github.com/sammytrindade">
