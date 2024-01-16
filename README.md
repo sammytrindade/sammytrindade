@@ -13,14 +13,22 @@
   
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Sammy-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Sammy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sammy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sammy-git" height="30" width="40" src="https://skillicons.dev/icons?i=git"/>
+  <img align="center" alt="Sammy-Stackoverflow" height="30" width="40" src="https://skillicons.dev/icons?i=stackoverflow"/>
   <img align="center" alt="Sammy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sammy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sammy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sammy-Vue" height="30" width="40" src="https://skillicons.dev/icons?i=vue"/>
+  <img align="center" alt="Sammy-NodeJs" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img align="center" alt="Sammy-Typescript" height="30" width="40" src="https://skillicons.dev/icons?i=ts"/>
+  <img align="center" alt="Sammy-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Sammy-Python" height="30" width="40" src="https://skillicons.dev/icons?i=py"/>
+  <img align="center" alt="Sammy-C++" height="30" width="40" src="https://skillicons.dev/icons?i=cpp"/>
+  <img align="center" alt="Sammy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sammy-Docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker"/>
   <img align="right" alt="Sammy-avatar" src="https://cdn.discordapp.com/attachments/881274895953166436/881277351890133002/avatar_gif_pequeno.gif">
 </div>
-  
+
   ##
   
 <div>
